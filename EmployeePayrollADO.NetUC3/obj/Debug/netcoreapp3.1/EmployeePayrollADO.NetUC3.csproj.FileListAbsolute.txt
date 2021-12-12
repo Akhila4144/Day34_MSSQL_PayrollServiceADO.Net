@@ -1,0 +1,5 @@
+C:\Users\Raj Nani\source\repos\EmployeePayrollADO.NetUC3\EmployeePayrollADO.NetUC3\obj\Debug\netcoreapp3.1\EmployeePayrollADO.NetUC3.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\EmployeePayrollADO.NetUC3\EmployeePayrollADO.NetUC3\obj\Debug\netcoreapp3.1\EmployeePayrollADO.NetUC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\EmployeePayrollADO.NetUC3\EmployeePayrollADO.NetUC3\obj\Debug\netcoreapp3.1\EmployeePayrollADO.NetUC3.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\EmployeePayrollADO.NetUC3\EmployeePayrollADO.NetUC3\obj\Debug\netcoreapp3.1\EmployeePayrollADO.NetUC3.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\EmployeePayrollADO.NetUC3\EmployeePayrollADO.NetUC3\obj\Debug\netcoreapp3.1\EmployeePayrollADO.NetUC3.csproj.CoreCompileInputs.cache
